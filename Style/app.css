@@ -1,0 +1,9 @@
+#circle {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    /* تبدیل به دایره */
+    position: relative;
+    /* استفاده از موقعیت نسبی */
+}
